@@ -14,6 +14,6 @@ SQLALCHEMY_TRACK_MODIFICATIONS = True
 OAUTH_CREDENTIALS = {
     'facebook': {
         'id': '1204581086255705',
-        'secret': 'f6b1ca0f9c3ce03c188818df85236f83'
+        'secret': 'redacted'
     }
 }
